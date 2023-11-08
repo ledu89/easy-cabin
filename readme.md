@@ -1,3 +1,3 @@
 # Cabins for rent
 
-Cabin for rent is abb where you can rent cabins,make reservations and much more
+Cabins-for-rent is app where you can rent cabins,make reservations and much more.Built with React Query and Supabse
