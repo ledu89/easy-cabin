@@ -17,6 +17,8 @@ const LoginLayout = styled.main`
 function Login() {
   return (
     <LoginLayout>
+      <p>email: posij58152@eazenity.com</p>
+      <p>pass: 11111111</p>
       <Logo />
       <Heading as="h4">Login in your acount</Heading>
       <LoginForm />
